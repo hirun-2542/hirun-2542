@@ -13,7 +13,7 @@ Advanced Database, DevOps, Database Management System, Agile Software Developmen
 
 ###
 
-<p align="left">✨ Creating bugs since 2019.<br>📚 I'm currently learning KMUTT.<br>🎯 Goals: earn dollars 💰 and speak English 📢.<br>🎲 Fun fact: play a game 🎮 and read a book 📘.</p>
+<p align="left">✨ Creating bugs since 2019.<br>📚 I'm graduated from KMUTT.<br>🎯 Goals: earn dollars 💰 and speak English 📢.<br>🎲 Fun fact: play a game 🎮 and read a book 📘.</p>
 
 ###
 
