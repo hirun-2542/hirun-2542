@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Hirun and my nickname is Nod. I want to be a web developer, from Thailand.</p>
+<p align="left"><b>Hello👋</b> I'm Hirun and my nickname is Nod. I'm 22 year old. I graduated from King Mongoud University of Technology Thonburi (KMUTT) with a bachelor’s degree in information technology.</p>
+<p align="left">Relevant Coursework: Web Technology, Advanced Programming, Client-side web programming, Server-side web programming, 
+Advanced Database, DevOps, Database Management System, Agile Software Development</p>
+<p align="left">In my free time, I often spend learning codings such as CSSbattle and leetcode which improve my coding skills.</p>
 
 ###
 
